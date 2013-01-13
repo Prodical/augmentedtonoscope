@@ -1,0 +1,42 @@
+//
+//  Notes
+//  Text
+//  ----------------------------------
+//  Developed with embedXcode
+//
+//  Project Maximilian-monosynth-GUI
+//  Created by Dr X on 04/01/2013
+//  Copyright © 2013 __MyCompanyName__
+//  Licence CC = BY SA NC
+//
+
+maxiOsc Types
+
+x- maxiOsc::sinewave(double frequency)
+x- maxiOsc::triangle(double frequency)
+x- maxiOsc::saw(double frequency)
+x- maxiOsc::square(double frequency)
+x- maxiOsc::pulse(double frequency, double duty)
+x- maxiOsc::phasor(double frequency)
+x- maxiOsc::noise()
+
+- maxiOsc::coswave(double frequency)
+- maxiOsc::sinebuf(double frequency)
+- maxiOsc::sinebuf4(double frequency)
+- maxiOsc::phasor(double frequency, double startphase, double endphase)
+- maxiOsc::phaseReset(double phaseIn)
+
+maxiOsc::maxiOsc()
+
+
+maxiFilter():x(0.0), y(0.0), z(0.0), c(0.0){};
+double cutoff;
+double resonance;
+double lores(double input,double cutoff1, double resonance);
+double hires(double input,double cutoff1, double resonance);
+double bandpass(double input,double cutoff1, double resonance);
+double lopass(double input,double cutoff);
+double hipass(double input,double cutoff);
+
+
+

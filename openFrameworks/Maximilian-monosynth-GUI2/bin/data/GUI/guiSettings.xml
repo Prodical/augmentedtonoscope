@@ -1,0 +1,200 @@
+<Widget>
+    <Kind>8</Kind>
+    <Name>VCO1F</Name>
+    <Value>55.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>8</Kind>
+    <Name>VCO1PW</Name>
+    <Value>0.600000024</Value>
+</Widget>
+<Widget>
+    <Kind>8</Kind>
+    <Name>LFO1F</Name>
+    <Value>0.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>21</Kind>
+    <Name>VCO1F</Name>
+    <Value>55.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>21</Kind>
+    <Name>VCO1PW</Name>
+    <Value>0.600000024</Value>
+</Widget>
+<Widget>
+    <Kind>21</Kind>
+    <Name>LFO1F</Name>
+    <Value>0.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>1-SINE</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>1-TRIANGLE</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>1-SAW</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>1-SQUARE</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>1-PULSE</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>1-PHASOR</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>1-NOISE</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>8</Kind>
+    <Name>VCO2F</Name>
+    <Value>110.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>8</Kind>
+    <Name>VCO2PW</Name>
+    <Value>0.200000003</Value>
+</Widget>
+<Widget>
+    <Kind>8</Kind>
+    <Name>LFO2F</Name>
+    <Value>0.200000003</Value>
+</Widget>
+<Widget>
+    <Kind>21</Kind>
+    <Name>VCO2F</Name>
+    <Value>110.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>21</Kind>
+    <Name>VCO2PW</Name>
+    <Value>0.200000003</Value>
+</Widget>
+<Widget>
+    <Kind>21</Kind>
+    <Name>LFO2F</Name>
+    <Value>0.200000003</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>2-SINE</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>2-TRIANGLE</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>2-SAW</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>2-SQUARE</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>2-PULSE</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>2-PHASOR</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>2-NOISE</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>8</Kind>
+    <Name>AT</Name>
+    <Value>5.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>8</Kind>
+    <Name>AV</Name>
+    <Value>1.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>8</Kind>
+    <Name>DT</Name>
+    <Value>250.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>8</Kind>
+    <Name>DV</Name>
+    <Value>0.125000000</Value>
+</Widget>
+<Widget>
+    <Kind>8</Kind>
+    <Name>ST</Name>
+    <Value>125.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>8</Kind>
+    <Name>SV</Name>
+    <Value>0.125000000</Value>
+</Widget>
+<Widget>
+    <Kind>8</Kind>
+    <Name>RT</Name>
+    <Value>500.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>8</Kind>
+    <Name>RV</Name>
+    <Value>0.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>21</Kind>
+    <Name>CUTOFF</Name>
+    <Value>-4234.644042969</Value>
+</Widget>
+<Widget>
+    <Kind>21</Kind>
+    <Name>RESONANCE</Name>
+    <Value>4.497002602</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>LORES</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>HIRES</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>AUTOTRIGGER</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>8</Kind>
+    <Name>TRIGGERTIME</Name>
+    <Value>1.000000000</Value>
+</Widget>
